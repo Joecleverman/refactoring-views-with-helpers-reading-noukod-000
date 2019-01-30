@@ -31,3 +31,4 @@ Cannot render console from 190.102.85.235! Allowed networks: 127.0.0.1, ::1, 127
   [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
 Processing by PostsController#new as HTML
   Rendered posts/new.html.erb within layouts/application (21.3ms)
+Completed 200 OK in 281ms (Views: 264.5ms | ActiveRecord: 0.4ms)
